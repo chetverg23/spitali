@@ -1,0 +1,8 @@
+{
+  "name": "spitali",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "fd790536"
+}
